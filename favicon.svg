@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Ivaflexx">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#e9ccaf"/>
+      <stop offset="0.5" stop-color="#cda07a"/>
+      <stop offset="1" stop-color="#a9764f"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="14" fill="#0b0809"/>
+  <rect x="1.5" y="1.5" width="61" height="61" rx="12.5" fill="none" stroke="url(#g)" stroke-opacity="0.35" stroke-width="1.5"/>
+  <text x="32" y="44" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-weight="600" font-size="34" letter-spacing="-1" fill="url(#g)">IF</text>
+</svg>
